@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能嵌入式系统应用</string>
+    <string name="title">智能嵌入式系统应用</string>
+    <string name="init_data">无信息!!!</string>
+    <string name="speed">速度:</string>
+    <string name="sp_data">80</string>
+    <string name="coded_disc">码盘:</string>
+    <string name="cd_data">70</string>
+    <string name="position_car">预设位</string>
+    <string name="qrtbtn">二维码</string>
+    <string name="chief">主车状态</string>
+    <string name="digital_title">第几行数据:</string>
+    <string name="voicetext">播报的文本:</string>
+    <string name="voiceText">请输入</string>
+    <string name="title_activity_operation">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_info">MainActivity</string>
+    <string name="title_activity_result">MainActivity</string>
+
+</resources>
